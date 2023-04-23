@@ -38,4 +38,4 @@ while True:
         print("La orden ha sido cancelada.")
         break
     else:
-        print("Respuesta inválida. Ingrese únicamente 'aceptar' o 'cancelar'.")
+        print("La respuesta inválida. Ingrese únicamente 'aceptar' o 'cancelar'.")
