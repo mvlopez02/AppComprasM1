@@ -30,7 +30,7 @@ print(f"El costo total de su compra es de: ${total_cost}")
 
 # Pregunta al usuario si desea aprobar o cancelar la orden
 while True:
-    response = input("Desea confirmar su compra? Escriba (aceptar/cancelar) ").lower()
+    response = input("¿Desea confirmar su compra? Escriba (aceptar/cancelar) ").lower()
     if response == "aceptar":
         print("Su orden ha sido aprobada. ¡Gracias por su compra!")
         break
